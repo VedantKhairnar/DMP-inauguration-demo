@@ -1,1 +1,1 @@
-# DMP-inauguration-demo
+# DMP-Inauguration
